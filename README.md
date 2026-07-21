@@ -4,6 +4,8 @@ This repository contains my machine learning practice notebooks and experiments.
 
 ## Contents
 - LinearRegressionSingle.ipynb
+- LinearRegressionDouble.ipynb
+- PolynomialRegression.ipynb
 - requirements.txt
 
 ## Setup
